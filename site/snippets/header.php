@@ -20,7 +20,5 @@
         <a href="<?= url() ?>" rel="home"><?= $site->title()->html() ?></a>
       </div>
 
-      <?php snippet('menu') ?>
-
     </div>
   </header>

@@ -1,13 +1,13 @@
-Title: Kirby Starterkit
+Title: Ryan Flomerfelt Mather
 
 ----
 
-Author: Bastian Allgeier GmbH
+Author: Ryan Flomerfelt Mather
 
 ----
 
-Description: This is Kirby's Starterkit.
+Description: Ryan Flomerfelt Mather's personal website.
 
 ----
 
-Copyright: © 2009–(date: Year) (link: http://getkirby.com text: The Kirby Team)
+Copyright: © 2017–(date: Year)
