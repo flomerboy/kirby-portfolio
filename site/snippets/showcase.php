@@ -30,7 +30,7 @@ if(isset($limit)) $projects = $projects->limit($limit);
             <img src="<?= $thumb->url() ?>" alt="Thumbnail for <?= $project->title()->html() ?>" class="showcase-image" />
           <?php endif ?>
           <div class="showcase-caption">
-            <h3 class="showcase-title"><?= $project->title()->html() ?></h3>
+            <h4 class="showcase-title"><?= $project->title()->html() ?></h3>
           </div>
         </a>
     </li>

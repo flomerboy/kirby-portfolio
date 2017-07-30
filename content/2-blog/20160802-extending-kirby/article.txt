@@ -1,4 +1,4 @@
-Title: Extending Kirby
+Title: Designing for Educators
 
 ----
 
@@ -12,18 +12,6 @@ Coverimage: extending.png
 
 Text: 
 
-Kirby comes as a clean package, aiming to provide you with a useful toolkit to get started with. But it it is also very modular and extensible. Rather than providing a solution to every imaginable problem out of the box, Kirby prefers to let *you* decide which features your project really needs.
+Designing for educators brings with it it's own set of unique challenges. All educators share in common that they need to be able to communicate with their students and facilitate learning. That aside, educators are an incredibly diverse cast of individuals. An issue with many ed-tech companies is that their educator personas are far too monolithic. Educators are as diverse and unique as students are. 
 
-There are a ton of different possibilities of how to extend Kirby. For sure, you will write your own template files (or maybe buy a theme?) and adjust the CSS according to your needs. Maybe you’ll install plugins or write your own custom Kirbytags or even Panel fields?
-
-However, if you ever get stuck, don’t hesitate to ask your question in [our forum](https://forum.getkirby.com/). It is also a great place to connect with other Kirby developers and to discover new plugins, developed by the Kirby community. If you like to stay up-to-date, you should also sign up to (link: https://getkirby.com/#kosmos text: Kirby Kosmos), our monthly newsletter.
-
-***
-
-**Further reading**
-
-- (link: https://getkirby.com/blog text: Official Kirby Blog)
-- (link: https://getkirby.com/#kosmos text: Kirby Kosmos) (monthly newsletter)
-- (link: https://getkirby.com/docs text: Kirby Documentation)
-- (link: https://getkirby.com/docs/cookbook text: Kirby Cookbook)
-- (link: https://getkirby.com/docs/developer-guide text: Kirby Developer Guide)
+For example, some educators are what we call "high-information" educators, which means that they want to have extremely detailed guides....

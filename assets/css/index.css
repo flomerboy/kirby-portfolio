@@ -1,21 +1,21 @@
 @charset "UTF-8";
 /*
   # Kirby Starterkit
-  
+
   This CSS file handles all of the styling in of Kirby’s
   Starterkit. Feel free to tinker around with it and
-  adjust it according to your needs.  
-  
+  adjust it according to your needs.
+
   ## Color Definitions
-  
+
   The following colors used in the Starterkit. If you want
   to use this CSS file as a starting point for your own
   project, you can do a simple search & replace to adjust
   the color scheme to your needs.
-  
+
   - Background:            #fffff8
-  - Text:                  #261e66
-  - Hovered Links:         #560bed
+  - Text:                  #3274ff
+  - Hovered Links:         #71efac
   - Active Button BG:      #4509be
   - Caption BG in projects
     showcase:              rgba(38, 30, 102, .95)
@@ -30,73 +30,66 @@
   - Menu Separator,
     <hr> in text:          #a8a5be
   - Blockquote BG:         #fffffd
-  
+
   ## Table of Contents
-  
+
   1 Global Rules & Definitions
   1.1 Font Definitions
   1.2 Reset & Normalization
   1.3 General Typography
   1.4 Images & Figures
-  
+
   2 Layout Helpers & Reusable Components
   2.1 Kirbytext
   2.2 Button
   2.3 Grid & Layout
   2.4 Pagination
   2.5 Projects Showcase
-  
+
   3 Site Layout
   3.1 Header
   3.2 Menu
   3.3 Sticky Footer
   3.4 Main Content
-  
+
   4 Template-specific Components
   4.1 Homepage
   4.2 Blog Article
   4.3 Team
   4.4 Contact
-  
+
 */
 
 /* =====  1 Global Rules & Definitions  ===================================== */
 
 /* -----  1.1 Font Definitions  --------------------------------------------- */
 
-/* Montserrat */
+/* Apercu Pro */
 @font-face {
-  font-family: 'Montserrat';
-  src: url(../fonts/montserrat-700.woff) format("woff");
-  font-weight: 700;
+  font-family: 'Apercu Pro';
+  src: url(../fonts/ap-regular) format("otf");
+  font-weight: 300;
   font-style: normal;
 }
 
+/* Lyon */
 @font-face {
-  font-family: 'Montserrat';
-  src: url(../fonts/montserrat-400.woff) format("woff");
-  font-weight: 400;
-  font-style: normal;
-}
-
-/* Vesper Libre */
-@font-face {
-  font-family: 'Vesper Libre';
-  src: url(../fonts/vesperlibre-400.woff) format("woff");
+  font-family: 'Lyon Text';
+  src: url(../fonts/lyon-text-regular.otf) format("otf");
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Vesper Libre';
-  src: url(../fonts/vesperlibre-500.woff) format("woff");
-  font-weight: 500;
-  font-style: normal;
+  font-family: 'Lyon Text';
+  src: url(../fonts/lyon-text-regular-italic.otf) format("otf");
+  font-weight: 400;
+  font-style: italic;
 }
 
 @font-face {
-  font-family: 'Vesper Libre';
-  src: url(../fonts/vesperlibre-700.woff) format("woff");
+  font-family: 'Lyon Text';
+  src: url(../fonts/lyon-text-bold) format("otf");
   font-weight: 700;
   font-style: normal;
 }
@@ -119,12 +112,12 @@ footer, header, main, menu, nav, section, summary {
 
 ::-moz-selection {
   background: #71efac;
-  color: #261e66;
+  color: #3274ff;
 }
 
 ::selection {
   background: #71efac;
-  color: #261e66;
+  color: #3274ff;
 }
 
 /* -----  1.3 General Typography  ------------------------------------------- */
@@ -138,9 +131,8 @@ p, ul, ol, figure, pre {
 }
 
 /* Headings */
-h1, h2, h3 {
-  font-family: Montserrat, Helvetica, Arial, sans-serif;
-  font-weight: 700;
+h1, h2, h3, h4 {
+  font-family: Apercu Pro, Helvetica, Arial, sans-serif;
 }
 
 h1 {
@@ -163,29 +155,41 @@ h3 {
 }
 
 h4 {
-  font-size: 1em;
+  font-size: .85em;
 }
 
 /* Links */
 a {
-  color: inherit;
   text-decoration: none;
-  border-bottom: 2px solid #71efac;
+  color: inherit;
 }
 
-a:hover, a:focus, a:active {
-  color: #560bed;
+.showcase-title {
+  display: inline;
+  background-image: linear-gradient(180deg,transparent 96%,#3274ff 0);
+  background-size: 0% 100%;
+  background-repeat: no-repeat;
+  text-decoration: none;
+  transition: background-size 0.4s ease;
+  -webkit-transition: background-size .4s ease;
+  -moz-transition: background-size .4s ease;
+  -ms-transition: background-size .4s ease;
+  -o-transition: background-size .4s ease;
+  vertical-align: baseline;
+  transition: background-size .4s ease;
+}
+
+.showcase-item:hover .showcase-title {
+    background-size: 100% 100%;
 }
 
 /* Misc */
 hr {
-  font-size: 1.25rem;
-  font-weight: 500;
   height: 1.5rem;
   text-align: center;
   margin-top: 3rem;
   margin-bottom: 1.5rem;
-  color: #71efac;
+  color: #3274ff  ;
 }
 
 hr::before {
@@ -193,13 +197,12 @@ hr::before {
   position: relative;
   display: block;
   background: currentColor;
-  height: 2px;
+  height: 4px;
   top: calc(50% + 1px);
 }
 
 hr::after {
-  content: "× × ×";
-  background: #fffff8;
+  background: #FFFFFF;
   position: relative;
   padding: 0 .25rem;
   top: -.25rem;
@@ -213,10 +216,7 @@ h1 + hr,
 }
 
 i, em {
-  /* Vesper Libre does not have Italics,
-     so we use a the *medium* weight instead */
-  font-weight: 500;
-  font-style: normal;
+  font-style: italic;
 }
 
 b, strong {
@@ -226,7 +226,7 @@ b, strong {
 mark {
   padding: .1em .05em;
   margin: -.1em 0;
-  color: #261e66;
+  color: #3274ff;
   background: #eafded;
 }
 
@@ -338,13 +338,13 @@ h1 + .intro {
   background: #e9e9e9;
   border-radius: 4px;
   box-shadow: 0 2px 0 #c9c7d4;
-  font-family: Montserrat, Helvetica, Arial, sans-serif;
+  font-family: Apercu Pro, Helvetica, Arial, sans-serif;
   position: relative;
   bottom: 2px;
 }
 
 .text blockquote {
-  font-family: Montserrat, Helvetica, Arial, sans-serif;
+  font-family: Apercu Pro, Helvetica, Arial, sans-serif;
   border-left: 2px solid #a8a5be;
   padding: .75rem;
   background: #fffffd;
@@ -362,14 +362,14 @@ h1 + .intro {
   padding: .6em .75em;
   white-space: nowrap;
   font-size: .75em;
-  font-family: Montserrat, Helvetica, Arial, sans-serif;
+  font-family: Apercu Pro, Helvetica, Arial, sans-serif;
   line-height: 1;
   font-weight: 400;
 }
 
 .btn:hover, .btn:focus {
-  background: #261e66;
-  border-color: #261e66;
+  background: #3274ff;
+  border-color: #3274ff;
   color: #71efac;
 }
 
@@ -447,12 +447,12 @@ h1 + .intro {
   height: 1.75rem;
   border-radius: 50%;
   background: #efeeed;
-  color: #261e66;
+  color: #3274ff;
   border-bottom: 0;
 }
 
 .pagination-item:hover, .pagination-item:focus {
-  background: #261e66;
+  background: #3274ff;
   color: #71efac;
 }
 
@@ -545,31 +545,10 @@ h1 + .intro {
   border-bottom: 0;
 }
 
-.showcase-caption {
-  position: absolute;
-  top: .75rem;
-  left: .75rem;
-  right: .75rem;
-  bottom: .75rem;
-  background: rgba(38, 30, 102, .95);
-  color: #eafded;
-  letter-spacing: .05em;
-  opacity: 0;
-  -webkit-transition: .25s opacity;
-  transition: .25s opacity;
-  will-change: opacity;
-}
-
 .showcase-title {
   margin-bottom: 0;
-  text-align: center;
   width: 100%;
-  padding: 0 1.5rem;
-  /* Vertically center the caption */
-  position: absolute;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-          transform: translateY(-50%);
+  padding-top: 1rem;
 }
 
 .showcase-image {
@@ -579,10 +558,6 @@ h1 + .intro {
   top: 0;
 }
 
-.showcase-link:hover .showcase-caption,
-.showcase-link:focus .showcase-caption {
-  opacity: 1;
-}
 
 @media (any-hover: none) {
   .showcase-caption {
@@ -605,9 +580,9 @@ h1 + .intro {
 /* =====  3 Site Layout  ==================================================== */
 
 html {
-  background: #fffff8;
-  color: #261e66;
-  font: normal 400 1.5em/1.5 "Vesper Libre", Georgia, serif;
+  background: #FFFFFF;
+  color: #3274ff;
+  font: normal 400 1.5em/1.5 "Lyon Text", Georgia, serif;
   /* Always show the vertical scrollbar to prevent `jumps`
      of page content after navigating from a very short page
      that does not scroll to a long pager */
@@ -649,9 +624,9 @@ body {
 
 .branding {
   text-align: center;
-  font-family: Montserrat, Helvetica, Arial, sans-serif;
+  font-family: Apercu Pro, Helvetica, Arial, sans-serif;
   font-weight: 700;
-  font-size: 1.5rem;
+  font-size: 1rem;
   line-height: 1.95rem;
   margin-bottom: .45rem;
 }
@@ -746,7 +721,7 @@ body {
 }
 
 .footer .heart {
-  /* The heart character of Arial Unicode MS looks just 
+  /* The heart character of Arial Unicode MS looks just
      surprisingly nice … */
   font-family: "Arial Unicode MS", Arial, sans-serif;
   display: inline-block;
@@ -812,7 +787,7 @@ body {
 .article-more {
   font-size: 75%;
   text-transform: uppercase;
-  font-family: Montserrat, Helvetica, Arial, sans-serif;
+  font-family: Apercu Pro, Helvetica, Arial, sans-serif;
   letter-spacing: .025em;
   white-space: nowrap;
   border-bottom: 2px solid #71efac;
