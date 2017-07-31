@@ -1,8 +1,8 @@
 <?php snippet('header') ?>
 
-  <main class="main" role="main">
+  <main class="home-main" role="main">
 
-    <header class="wrap wide">
+    <header class="wrap wide biography">
       <hr />
       <h4><?= $page->title()->html() ?></h4>
       <div class="intro text">
@@ -14,7 +14,7 @@
       <div class="wrap wide">
         <hr />
         <h4>Work</h4>
-        <?php snippet('showcase', ['limit' => 3]) ?>
+        <?php snippet('showcase', ['limit' => 9]) ?>
       </div>
     </section>
 
@@ -22,7 +22,7 @@
       <div class="wrap wide">
         <hr />
         <h4>Thoughts</h4>
-        <?php snippet('blog-showcase', ['limit' => 3]) ?>
+        <?php snippet('blog-showcase', ['limit' => 5]) ?>
       </div>
     </section>
 
