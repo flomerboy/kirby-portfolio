@@ -25,8 +25,7 @@
     <section class="blog-section">
 
       <div class="wrap wide">
-        <?php snippet('showcase', ['limit' => 3]) ?>
-        <p class="blog-section-more"><a href="<?= page('projects')->url() ?>" class="btn">See All &hellip;</a></p>
+        <?php snippet('blog-showcase', ['limit' => 3]) ?>
       </div>
 
     </section>
