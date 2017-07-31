@@ -35,7 +35,7 @@
 
           </article>
 
-          <hr />
+          <hr class='u-mar-top'/>
 
         <?php endforeach ?>
       <?php else: ?>

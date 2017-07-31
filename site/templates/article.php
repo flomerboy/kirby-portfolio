@@ -2,14 +2,12 @@
 
   <main class="main" role="main">
 
-    <article class="article single wrap">
+    <article class="article single wrap wide">
 
       <header class="article-header">
-        <h1><?= $page->title()->html() ?></h1>
-        <div class="intro text">
-          <?= $page->date('F jS, Y') ?>
-        </div>
-        <hr />
+        <hr class="u-mar-top"/>
+        <h2><?= $page->title()->html() ?></h2>
+        <h4><?= $page->date('F jS, Y') ?></h4>
       </header>
 
       <div class="text">

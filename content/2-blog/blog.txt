@@ -1,9 +1,9 @@
-Title: Blog
+Title: Flomerblog
 
 ----
 
-Text: Blogging with Kirby is as easy as it’s fun. This simple blog shows just a basic implementation of a blogging engine, realized with only a few lines of code. It can easily be extended with tags, categories or whatever feature you need.
+Text: Hello, This is my blog. It is quite new right now. I'm going to start recording my thoughts about design, play, pedagogy, etc. to help internalize the knowledge and share it with others.
 
 ----
 
-Perpage: 2
+Perpage: 5

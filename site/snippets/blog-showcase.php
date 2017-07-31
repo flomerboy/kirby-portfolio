@@ -42,4 +42,6 @@ if(isset($limit)) $articles = $articles->limit($limit);
     <p>This blog does not contain any articles yet.</p>
   <?php endif ?>
 
+  <h4 class="see-blog"><a href="/blog">See All</a></h4>
+
 </ul>
