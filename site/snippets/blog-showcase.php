@@ -20,31 +20,22 @@ if(isset($limit)) $articles = $articles->limit($limit);
 
 ?>
 
-<ul class="showcase grid gutter-1">
+<ul class="blog-showcase">
 
   <?php if($articles->count()): ?>
     <?php foreach($articles as $article): ?>
-
+      <a href="<?= $article->url() ?>">
       <article class="article index">
 
         <header class="article-header">
           <h2 class="article-title">
-            <a href="<?= $article->url() ?>"><?= $article->title()->html() ?></a>
+            <?= $article->title()->html() ?>
           </h2>
-
-          <p class="article-date"><?= $article->date('F jS, Y') ?></p>
+          <h4 class="read-more">Read More</h4>
         </header>
 
-        <div class="text">
-          <p>
-            <?= $article->text()->kirbytext()->excerpt(50, 'words') ?>
-            <a href="<?= $article->url() ?>" class="article-more">read more</a>
-          </p>
-        </div>
-
       </article>
-
-      <hr />
+      </a>
 
     <?php endforeach ?>
   <?php else: ?>
