@@ -6,4 +6,10 @@ Year: 2014
 
 ----
 
-Text: The littleBits Education Code Kit is a product that encourages budding inventors to design and code their own video games. I was a core team member during the late R&D, product design, and execution phases of the product. That means I contributed to UX Research, defining which Bits are included in the kit what the content (inventions, tutorials, etc.), as well as the packaging and advertising that surrounds the product.
+Text: 
+
+With the littleBits Code Kit, students learn to program by building games with their own custom code.
+
+As a core team member for this project, I lead the execution of all videos, and packaging, and contributed to the design of the inventions, tutorials, the new Bits in the Kit (codeBit and LED Matrix), and the Code Kit App. My main contributions to the design of the Code Kit App were in the design of the software blocks. 
+
+I also storyboarded, produced, and directed two videos for the marketing of the kit.

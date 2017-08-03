@@ -1,1 +1,17 @@
 Sort: 1
+
+----
+
+Caption: 
+
+----
+
+Link: 
+
+----
+
+Max-width: true
+
+----
+
+Maxwidth: 1

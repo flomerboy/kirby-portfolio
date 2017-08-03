@@ -2,6 +2,17 @@ title: Project
 
 files:
   sortable: true
+  fields:
+    caption:
+      label: Caption
+      type: textarea
+    link:
+      label: Link
+      type: text
+    maxwidth:
+      label: Make this image 66% wide?
+      type: checkbox
+      text: yes please
 
 pages: false
 
