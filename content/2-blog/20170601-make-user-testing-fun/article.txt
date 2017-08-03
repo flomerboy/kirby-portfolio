@@ -6,4 +6,20 @@ Date: 2017-06-01
 
 ----
 
-Text: In 2016 I did contract product design for a startup in San Francisco called Supply. yada yada
+Text: 
+
+In 2016 I did contract product design for a startup in San Francisco called Supply. One of tests we were doing was to see how much people would be willing to pay for a consumer product. I got the feeling in the user testing sessions (and the data supports this) that people would always pick the lowest price available, after all, why wouldn't they want to go for the lowest price? So I tried something out. Instead of asking participants how much they would be willing to pay - I told them that they were on an episode of the Price is Right. Guess too low, and you won't win! Guess too high and you are eliminated! When people entered the magic circle of the game, they totally forgot about their self-interest in getting the lower price, and started to become much more engaged thinkers. 
+
+*Hm.. I don't think anyone would spend 150 on this, so maybe 125 is an appropriate price, argh but I don't want someone else to beat me, I guess some people would probably pay 130 for it. so... 130! Final Answer! *
+
+What an engaged and meaningful response! All the other responses I had seen until now were just "I picked the lowest price because I like low prices." Of course you like low prices!
+
+A couple more examples. We wanted to do some user testing to determine which of a product's features were the most marketable. If we just asked people what they thought were the most important features, they tended to just go with the numbers that sounded the most number-y like battery life or the range it could be from a wireless communication. But I know from experience that numbers aren't the most relatable or captivating thing for many people. I tried out flipping the question to the following: Imagine that you are a Macy's storefront designer and it's your job to create a window display for this product, how would you decide to show off it's most important features so that people could understand the value. People started giving creative, considered, nuanced responses. 
+
+*I think people care about feature X but i don't think you could show it off in person as much as feature Y. *
+
+One last example. I wanted to do some user testing to determine what kind other products people would find this product to be similar to. Since it was a very innovative product, there wasn't much to inform the industrial design in terms of differentiation. How do you know what to differentiate from if you don't even know what your'e competing with. So, I printed out several products that would exist in a  Best Buy/ Walmart type store and handed them to people shuffled. I told them "You're the store manager of a Walmart electronics section and your goal is to sort these products in the most intuitive way possible. You can put them in 3 rows, and the goal is to make it as easy as possible for people to find the product they are looking for. You  wouldn't believe how engaged people got. I literally had strangers in the Starbucks coming up to me and asking me if they could participate in the research game I was playing. And the responses were very creative! 
+
+*I wouldn't put it next to a wifi router because, wifi routers are more industrial. I wouldn't put it with laptop chargers because, those are something I carry around with me all day. *
+
+I would have never gotten that kind of depth if I just asked normal boring questions. Now, of course questions like these need more time spent in analysis because they are less scientific and more subjective, but I think that's okay! and honestly I think there's something to be said for the user tester having a good time! If you're having fun it's likely to rub off on your participants

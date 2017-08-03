@@ -1,1 +1,13 @@
 Sort: 7
+
+----
+
+Caption: This is the Code Kit App Canvas. On the left are the drawers for getting blocks from. On the right is any instructional content. The bottom contains feedback about connection to your circuit. I was a core team member on the UX design of the blocks, including deciding which blocks were included, and what level of abstraction we presented to our users.
+
+----
+
+Link: 
+
+----
+
+Maxwidth: 0

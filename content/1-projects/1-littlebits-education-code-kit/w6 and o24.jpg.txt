@@ -1,1 +1,13 @@
 Sort: 4
+
+----
+
+Caption: The codeBit and LED Matrix are the two new Bits in this kit. I designed the font for the LED Matrix, and gave feedback on the silkscreen design on each Bit.
+
+----
+
+Link: 
+
+----
+
+Maxwidth: 0

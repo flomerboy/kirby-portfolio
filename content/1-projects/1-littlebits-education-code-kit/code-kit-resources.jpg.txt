@@ -1,1 +1,13 @@
 Sort: 8
+
+----
+
+Caption: In addition to the core kit experience, we put a great deal of time and effort into supporting resources. Nick Santos designed the UI for this page, and Erin Mulcahy lead content development. I was responsible for storyboarding, producing, and directing all of the videos on (link: http://www.littlebits.cc/code-kit-resources text: this page).
+
+----
+
+Link: http://www.littlebits.cc/code-kit-resources
+
+----
+
+Maxwidth: 0

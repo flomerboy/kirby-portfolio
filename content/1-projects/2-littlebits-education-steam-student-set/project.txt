@@ -6,4 +6,4 @@ Year: 2013
 
 ----
 
-Text: The littleBits STEAM Student Set is a kit I was on the core team for. I contributed to product design, and developed a new graphic language for technical illustrations.
+Text: The littleBits STEAM Student Set is a kit of littleBits designed to empower students to learn about engineering and design through creating their own personally meaningful projects. I contributed to product design, and developed a new graphic language for technical illustrations.

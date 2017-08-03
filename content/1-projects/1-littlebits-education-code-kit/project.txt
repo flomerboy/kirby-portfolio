@@ -8,8 +8,8 @@ Year: 2014
 
 Text: 
 
-With the littleBits Code Kit, students learn to program by building games with their own custom code.
+To quote Seymour Papert, "Every maker of video games knows something that the makers of curriculum don’t seem to understand. You’ll never see a video game being advertised as being easy. Kids who do not like school will tell you it’s not because it’s too hard. It’s because it’s–boring." 
 
-As a core team member for this project, I lead the execution of all videos, and packaging, and contributed to the design of the inventions, tutorials, the new Bits in the Kit (codeBit and LED Matrix), and the Code Kit App. My main contributions to the design of the Code Kit App were in the design of the software blocks. 
+The littleBits Code Kit empowers inventors to learn engineering and design skills through creating their own games. Games are intrinsically great projects for design and engineering because they require an understanding of systems thinking. What's more - since games are so fun and challenging, they keep students focused and motivated to persist in the face of challenging problems. It's not uncommon after all to see someone playing a level of a game many times over before completing it. littleBits adds a unique angle to the experience of making your own games by bringing it into the physical world - an important modality for thinking about systems.
 
-I also storyboarded, produced, and directed two videos for the marketing of the kit.
+As a core team member for this project, I lead the execution of all videos, and packaging, and contributed to the design of the inventions, tutorials, the new Bits in the Kit (codeBit and LED Matrix), and the Code Kit App. My main contributions to the design of the Code Kit App were in the design of the software blocks. I also storyboarded, produced, and directed two videos for the marketing of the kit.

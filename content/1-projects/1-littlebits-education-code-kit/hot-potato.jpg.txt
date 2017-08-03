@@ -2,8 +2,12 @@ Sort: 1
 
 ----
 
-Caption: blah blah blah
+Caption: This photo captures the energy of one of the hero projects of the kit: Hot Potato... of Doom! The sense of physical danger of this game makes it extremely fun. The use of timers and sound effects are tied to coding concepts that motivate students to learn how to code their own games.
 
 ----
 
 Link: 
+
+----
+
+Maxwidth: 0

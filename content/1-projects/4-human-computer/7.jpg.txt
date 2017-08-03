@@ -1,0 +1,13 @@
+Sort: 3
+
+----
+
+Caption: One of the groups presenting the brain-computer interface that their project used. I serve as a head model here.
+
+----
+
+Link: 
+
+----
+
+Maxwidth: 0

@@ -6,7 +6,15 @@ Date: 2017-08-01
 
 ----
 
-Text: Lorem ipsum dolor sit amet monkey bambo
+Text: 
+
+In the development of the littleBits Code Kit, Chloe Varelidi created an amazing community of educators that were passionate about the Code Kit. I learned so much from the experience that I thought it deserved a blog post of its own. The Educator Advisory Committee was composed of a very diverse group of educators. Some were curriculum developers, another was a special education teacher, another was a librarian. etc. One of the first things I learned was how diverse educators are. Some educators love to have a ton of supporting resources. Others, like Rob Gilson from the Blue School or Lesa Wang from Marymount, are more comfortable going with the flow of a loosely defined lesson plan. It's extremely important that designers in ed-tech remember that educators are just as diverse as their students.
+
+We met with the Educator Advisory Committee about once per month, which was enough to get regular feedback, but not so much that we were taking advantage of their precious time. Another important aspect of the success of the program was how fun the sessions were. I give Chloe all the credit here. Each session started with a fun warm up activity like - what was your favorite video game growing up? Then, educators could self select into one of about four specific areas we were looking for feedback on. This really allowed us to take advantage of the diversity of the educators that we were working with. 
+
+Another very interesting component of the meetings was the open discussions we would have at the end. Often times, the most interesting insights came to play when we were just open endedly talking about our experiences. For example, one teacher reminded us that the formal qualities of the Bits can be a place for inspiration. The LED Matrix Bit kind of looks like a turtle shell! Another educator mentioned that not all students are armed with the same level of computer skills. Some may have extensive experience with a tablet, but not know what a right click is. In future sessions like this, I will definitely make sure that there is plenty of time at the end to have open discussion.
+
+The ed tech industry has a long history of not doing enough listening - so I thought that this was an invaluable exercise for me as a designer in learning how to listen better.
 
 ----
 

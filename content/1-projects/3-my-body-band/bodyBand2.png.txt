@@ -1,1 +1,13 @@
-Sort: 2
+Sort: 3
+
+----
+
+Caption: The flow of play oscillates between free play and learning songs so that the children who use the suit are able to let their attention shift from divergent to convergent thinking patterns.
+
+----
+
+Link: 
+
+----
+
+Maxwidth: 0

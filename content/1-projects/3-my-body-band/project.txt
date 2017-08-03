@@ -2,12 +2,14 @@ Title: My Body Band
 
 ----
 
-Year: 2012
+Year: 2014
 
 ----
 
 Text: 
 
 My Body Band is a project that I completed with Ben Basseches and Erik Lack while at RISD under the guidance of Cas Holman. My Body Band is a wearable electronic suit that teaches anatomy through song and dance. The electronic suit makes noises that correspond to the motion of specific muscles, allowing people to experiment with the music of every-day motion, and how different muscles in the body coordinate with each other to accomplish a single task. I worked on the product design and hardware prototyping for this project.
+
+Many Thanks to Cas Holman for advising this project and creating the learning environment that it could take place in.
 
 (vimeo: https://vimeo.com/111134331)

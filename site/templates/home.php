@@ -8,6 +8,7 @@
       <div class="intro text">
         <?= $page->intro()->kirbytext() ?>
       </div>
+      <h4 class="see-blog"><a href="/about">Read More</a></h4>
     </header>
 
     <section class="projects-section">

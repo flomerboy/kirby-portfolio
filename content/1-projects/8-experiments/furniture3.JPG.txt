@@ -1,0 +1,13 @@
+Sort: 10
+
+----
+
+Caption: This is a custom musical instrument that I designed and fabricated with Jonathan Hsiung. The butterfly joint mechanism allows the ash members to make a very pleasant clang when they hit each other.
+
+----
+
+Link: 
+
+----
+
+Maxwidth: 1

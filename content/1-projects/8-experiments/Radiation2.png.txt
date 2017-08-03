@@ -1,0 +1,13 @@
+Sort: 4
+
+----
+
+Caption: A closeup of how the radiation sensor is worn on the body.
+
+----
+
+Link: 
+
+----
+
+Maxwidth: 1

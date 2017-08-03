@@ -1,0 +1,13 @@
+Sort: 7
+
+----
+
+Caption: This is a procedurally generated vase that I developed during an internship at 3D Systems in San Francisco.
+
+----
+
+Link: 
+
+----
+
+Maxwidth: 1

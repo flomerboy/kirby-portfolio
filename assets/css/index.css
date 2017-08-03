@@ -911,6 +911,14 @@ iframe {
   border-bottom: 2px solid #71efac;
 }
 
+.text a {
+  text-decoration: underline;
+}
+
+figcaption {
+  padding-bottom: 1rem;
+}
+
 /* -----  4.3 Team  --------------------------------------------------------- */
 
 .team {

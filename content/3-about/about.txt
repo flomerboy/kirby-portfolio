@@ -6,4 +6,12 @@ Intro:
 
 ----
 
-Text: The approach of using subpages for storing content sections of a page can also be very useful for creating a (link: https://getkirby.com/docs/cookbook/one-pager text: one-page) website, featuring very different kinds of content.
+Text: 
+
+I am a Senior Designer at littleBits, where I am currently focusing on the Industrial Design of future Bits. I just recently finished the launch of the littleBits Education Code Kit. In my spare time I study Chinese and am working on a game called Flip Tales, which I hope to launch soon on Kickstarter. I also do some freelance consulting for (link: http://www.anjiplay.com text: Anji Play). 
+
+Prior to that I was a student at Rhode Island School of Design where I majored in Industrial Design. My secret talents are skipping stones, playing accordion and the fact that I am co-inventor of (link: https://www.google.com/patents/US20140303490 text: a material science patent).
+
+(email: rmather@alumni.risd.edu text: Email Me)
+(link: https://twitter.com/Flomerboy text: Tweet @ Me)
+(link: https://github.com/flomerboy text: Fork Me)

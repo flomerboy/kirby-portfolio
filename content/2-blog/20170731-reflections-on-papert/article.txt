@@ -6,4 +6,16 @@ Date: 2017-07-31
 
 ----
 
-Text: Lorem ipsum dolor sit amet monkey bambo
+Text: 
+
+When Seymour Papert passed away last year, it really inspired me to learn more about his work and the impact it has had on my work. In reading through (link: http://mindstorms.media.mit.edu/ text: Mindstorms), and listening in on (link: https://www.media.mit.edu/events/papert/ text: Thinking about Thinking about Seymour) a few things came to mind and I just want to briefly record them here in the spirit of active learning.
+
+One thing that many people said about Papert, and that I was able to glean from his writings is that he was always very active in thinking about his own learning. He would never do anything in the uninspected manner than so many people live their lives. A great example I think is in how he talks about juggling and that anyone can learn juggling quite quickly. The issue is that most people when juggling just make the same silly mistakes over and over again. What Papert helped me realize is that actively focusing on the feedback that you're getting from *any* activity can help you learn more about your own learning. I use this a lot in how I design the environment I work in. If I'm reading something and I'm having a hard time focusing, perhaps I should listen to it instead? I hope I can keep on thinking about how I learn in the every day as much as Papert did. 
+
+A colleague at littleBits Ed Bear was recently talking to me about how your first understanding of a tree comes from holding a leaf as a child and feeling the veins on the back of it. Although even the most advanced scientists still don't completely understand photosynthesis (it is an actively researched subject), the earliest understanding can be understood through touch, and feel. To me this resonated a lot with how Papert talked about gears as something he would use to think with, and eventually how he inspired generations of children to think through computing. One thing that Papert really transformed for me was the notion of what is valuable about learning how to program and think programatically. It's not that you will learn skills that will necessarily apply them, but that it is simply a new way to think about problems. 
+
+Similarly to how all children learn poetry in school, we don't expect them all to be poets when they grow up, or even to write poems for fun. We just expect that they will acquire an eye for "poetic things". Computation can do the same thing for students.
+
+Another very powerful idea for me from Mindstorms was the concept that if a boy or a girl had a hard time learning french we wouldn't assume that they don't have  a mind for French because we know very well that if the same boy or girl was raised in France, they would speak it perfectly. I think about this very frequently now - what is the difference between the way we teach certain things and the way that you can learn them through real life.  For example, in high school I worked in my dad's university materials science laboratory. I thought everything would be far far over my head, when in reality all that was required from me was a basic understanding of trigonometry and graphing. The much harder skill to gain on the job was the reading comprehension necessary to get through academic papers. 
+
+At the same time, I don't know if I would ever feel comfortable hiring a designer with no academic background whatsoever... I have to stop writing for now, but these are the most powerful ideas that jump to mind for me when thinking about Papert.

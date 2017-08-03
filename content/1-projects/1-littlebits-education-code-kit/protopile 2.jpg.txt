@@ -1,1 +1,17 @@
 Sort: 14
+
+----
+
+Caption: 
+
+These are some of my 100s of notes on block ideas, user interfaces, and the various tradeoffs associated with design decisions. I can definitely draw these blocks in my sleep now. 
+
+Many thanks go to the teams at Google Blockly and Scratch for their pioneering and enabling work in the design of block-based coding languages.
+
+----
+
+Link: 
+
+----
+
+Maxwidth: 0
