@@ -284,7 +284,6 @@ figcaption {
   text-align: center;
   font-weight: 300;
   font-size: 1.125rem;
-  margin-bottom: 3rem;
 }
 
 h1 + .intro {
@@ -704,7 +703,6 @@ body {
 }
 
 .branding {
-  text-align: center;
   font-family: Apercu Pro, Helvetica, Arial, sans-serif;
   font-weight: 300;
   font-size: 1rem;
@@ -824,6 +822,17 @@ body {
 }
 
 /* -----  3.4 Main Content  ------------------------------------------------- */
+
+
+@media all and (max-width: 1024px) {
+  hr::before {
+    height: 3px;
+  }
+  .u-mobile-mar-top {
+    margin-top: 4rem;
+  }
+
+}
 
 @media all and (min-width: 1024px) {
   .small-image  {

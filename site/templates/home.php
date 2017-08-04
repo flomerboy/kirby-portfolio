@@ -11,7 +11,7 @@
       <h4 class="see-blog"><a href="/about">Read More</a></h4>
     </header>
 
-    <section class="projects-section">
+    <section class="projects-section u-mobile-mar-top">
       <div class="wrap wide">
         <hr />
         <h4>Work</h4>
