@@ -2,10 +2,10 @@
 
   <main class="main" role="main">
 
-    <div class="wrap">
+    <div class="wrap wide">
 
       <header>
-        <h1><?= $page->title()->html() ?></h1>
+        <h2 class="u-mar-top"><?= $page->title()->html() ?></h2>
         <div class="intro text">
           <?= $page->intro()->kirbytext() ?>
         </div>
