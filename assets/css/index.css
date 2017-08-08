@@ -264,7 +264,6 @@ img {
 
 figcaption {
   font-size: .75rem;
-  line-height: 1.5rem;
 }
 
 /* =====  2 Layout Helpers & Reusable Components  =========================== */
@@ -835,6 +834,7 @@ body {
 }
 
 @media all and (min-width: 1024px) {
+
   .small-image  {
     width: 66%;
   }
@@ -895,15 +895,12 @@ iframe {
 
 .article-title {
   font-weight: 300;
-  margin-bottom: 0;
+  line-height: 1.75rem;
+  margin-bottom: .5rem;
 }
 
 .article-title a {
   border-bottom: 0;
-}
-
-.article-date {
-  text-align: center;
 }
 
 .article:last-of-type + hr {

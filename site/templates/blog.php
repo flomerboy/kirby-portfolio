@@ -7,12 +7,12 @@
 
   <main class="main" role="main">
 
-    <header class="wrap">
+    <header class="wrap wide">
       <h1><?= $page->title()->html() ?></h1>
       <hr />
     </header>
 
-    <section class="wrap">
+    <section class="wrap wide">
       <?php if($articles->count()): ?>
         <?php foreach($articles as $article): ?>
 
@@ -23,7 +23,7 @@
                 <a href="<?= $article->url() ?>"><?= $article->title()->html() ?></a>
               </h2>
 
-              <p class="article-date"><?= $article->date('F jS, Y') ?></p>
+              <p><?= $article->date('F jS, Y') ?></p>
             </header>
 
             <div class="text">
