@@ -12,7 +12,7 @@
 
 </head>
 <body>
-
+<?php snippet('analyticstracking') ?>
   <div class="wrap wide">
       <div class="branding">
         <a href="<?= url() ?>" rel="home"><?= $site->title()->html() ?></a>
