@@ -11,7 +11,7 @@
       <h2>Pedagogy Play Lab</h2>
       <p><br>A reading club about play, pedagogy, and learning meeting biweekly in Williamsburg, Brooklyn.</p>
       <p>Sign up for the mailing list if you would like to be notified when meetings begin. Pedagogy Play Lab is a part of <a href="http://learning-gardens.co">Learning Gardens</a>. Join the #pedagogy-play-lab channel on Slack to participate in the online discussion.</p>
-      <a href="pedagogy-play-lab/schedule"><p class = "see-blog">Schedule</p></a> | 
+      <a href="schedule"><p class = "see-blog">Schedule</p></a> |
       <a href="http://eepurl.com/ciqYyT"><p class = "see-blog">Get our e-mails</p></a> |
       <a href="https://lg-slack-automate.herokuapp.com/"><p class = "see-blog">Join our Slack</p></a>
       <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
