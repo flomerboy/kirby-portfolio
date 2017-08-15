@@ -893,6 +893,12 @@ iframe {
 
 /* ----- 4.2 Blog Article  -------------------------------------------------- */
 
+.article li {
+  font-family: Apercu Pro;
+  max-width: 800px;
+  font-size: .85rem;
+}
+
 .article-title {
   font-weight: 300;
   line-height: 1.75rem;

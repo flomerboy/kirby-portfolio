@@ -1,0 +1,40 @@
+Title: Code Kit Process
+
+----
+
+Date: 2017-08-15
+
+----
+
+Text: 
+
+The Code Kit was by far the biggest undertaking I've ever done as a designer. Over the course of my one year on the project, by the numbers the team completed (estimated):
+- 200+ invention ideas
+- 100+ code block ideas
+- 60 collateral prototypes
+- 60 pages of storyboards
+- 45 user testing sessions
+- 10 photo or video shoots
+- 4 iterations of a custom font for the LED Matrix
+- 1 weekend spent drilling holes in a piece of Canadian birch for the video backgrounds
+
+You get the idea! 
+Specifically, projects that I worked on from start to finish of the code kit were:
+- Prototyping and user testing to determine the coding paradigm
+- Prototyping and user testing the UX of the App interface
+- Prototyping block ideas
+- Ideating and refining the kit experience
+- Ideating and refining invention concepts
+- UX ideation for functions and variables in the app
+- Producing and directing two video shoots
+- Directing animations for 5 videos
+- Storyboarding all 15 videos
+- Editing 5 of those videos
+- Lead designer on all physical collateral in the Kit
+
+I learned a ton from working on the Code Kit. I'll try to distill it down to a few digestible points. 
+- Teachers are an extremely diverse set of people. Most user groups (students, athletes, designers, mathematicians, etc.) are like this. Be careful to over-generalize in the name of "empathizing with users" are you empathizing with all of them? Or just a few?
+- An innovative idea is useless if you cannot communicate it clearly. In art school, I felt frustrated when people weren't as passionate about my *innovative* ideas as I was. I realize now that an idea that can't be communicated clearly might as well be a bad idea. Spending time to make your ideas clear (to the point it seems obvious to your audience) is always worth it.
+- Setting a weekly cadence of user testing helps the development process stay sober.
+- A prototype that focuses on testing an isolated aspect of an experience allows you to get data quicker, but it's extremely important to supplement that with testing that provides everything in context. You wouldn't an engine of a car and a wheel of a car and assume you didn't have to drive it around once assembled before shipping it out to a customer. Balancing the two types of testing is an art form of product development.
+- Making an amazing product takes *time*. Set realistic expectations. We developed Code Kit in one year and expected it to be as great as things that have been evolving for decades.
