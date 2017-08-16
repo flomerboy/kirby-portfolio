@@ -1,4 +1,4 @@
-Caption: 
+Caption: This is a prototype for the overall UX of the kit. This style of non-linear user journey helped us understand how to navigate students learning how to use Bits and how to Code at the same time.
 
 ----
 
@@ -6,4 +6,8 @@ Link:
 
 ----
 
-Maxwidth: 
+Maxwidth: 0
+
+----
+
+Sort: 4

@@ -1,4 +1,4 @@
-Caption: 
+Caption: A sketch of code for a Guitar Hero game, with key blocks highlighted. Seeing blocks in context was essential for determining how to implement.
 
 ----
 
@@ -6,4 +6,8 @@ Link:
 
 ----
 
-Maxwidth: 
+Maxwidth: 0
+
+----
+
+Sort: 15

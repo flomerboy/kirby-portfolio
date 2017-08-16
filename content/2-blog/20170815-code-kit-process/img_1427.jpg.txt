@@ -1,4 +1,4 @@
-Caption: 
+Caption: A great graphic by Dave Sharp that explains how features to a game create a need-to-know for furthering code skills.
 
 ----
 
@@ -6,4 +6,8 @@ Link:
 
 ----
 
-Maxwidth: 
+Maxwidth: 0
+
+----
+
+Sort: 25

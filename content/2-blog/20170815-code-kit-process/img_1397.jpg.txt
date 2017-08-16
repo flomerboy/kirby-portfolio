@@ -1,4 +1,4 @@
-Caption: 
+Caption: These are some early ideas for platform UX.
 
 ----
 
@@ -6,4 +6,8 @@ Link:
 
 ----
 
-Maxwidth: 
+Maxwidth: 0
+
+----
+
+Sort: 7

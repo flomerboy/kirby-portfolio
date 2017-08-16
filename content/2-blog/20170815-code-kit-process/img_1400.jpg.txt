@@ -1,4 +1,4 @@
-Caption: 
+Caption: Prototype of the trifold for students.
 
 ----
 
@@ -6,4 +6,8 @@ Link:
 
 ----
 
-Maxwidth: 
+Maxwidth: 0
+
+----
+
+Sort: 36

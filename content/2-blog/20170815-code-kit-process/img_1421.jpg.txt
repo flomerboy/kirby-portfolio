@@ -1,4 +1,4 @@
-Caption: 
+Caption: These are some prototypes from "bodystorming" a technique I learned from Cas Holman to generate fun ideas from games backwards to how it's normally done. In this exercise you make random goofy body movements and then attempt to post-rationalize the game that made the person get into that pose.
 
 ----
 
@@ -7,3 +7,7 @@ Link:
 ----
 
 Maxwidth: 1
+
+----
+
+Sort: 1

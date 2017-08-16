@@ -1,4 +1,4 @@
-Caption: 
+Caption: More ideation for images, animations, etc.
 
 ----
 
@@ -7,3 +7,7 @@ Link:
 ----
 
 Maxwidth: 1
+
+----
+
+Sort: 19

@@ -2,7 +2,7 @@ Sort: 3
 
 ----
 
-Caption: This is a prototype of a wearable radiation sensor that electrocutes you when there is radiation nearby. Ouch! Developed with Munehiko Sato from the Camera Culture Group at the MIT Media Lab
+Caption: This is a prototype of a wearable radiation sensor that electrocutes you when there is radiation nearby. Ouch! Developed with Munehiko Sato from the Camera Culture Group at the MIT Media Lab.
 
 ----
 

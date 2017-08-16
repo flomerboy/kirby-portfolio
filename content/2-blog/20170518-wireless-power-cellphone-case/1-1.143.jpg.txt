@@ -1,0 +1,13 @@
+Caption: A compound shape was created for the camera detail which achieves a minimal and slim look.
+
+----
+
+Link: 
+
+----
+
+Maxwidth: 0
+
+----
+
+Sort: 5

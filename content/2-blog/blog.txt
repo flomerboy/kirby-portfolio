@@ -6,4 +6,4 @@ Text: Hello, This is my blog. It is quite new right now. I'm going to start reco
 
 ----
 
-Perpage: 5
+Perpage: 20

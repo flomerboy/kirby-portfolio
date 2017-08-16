@@ -1,4 +1,4 @@
-Caption: 
+Caption: Ideation for some innovative variable definition blocks.
 
 ----
 
@@ -7,3 +7,7 @@ Link:
 ----
 
 Maxwidth: 1
+
+----
+
+Sort: 18

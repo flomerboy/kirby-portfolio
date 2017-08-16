@@ -1,0 +1,23 @@
+Title: From the Bottom of my Fuel Cell
+
+----
+
+Date: 2017-06-01
+
+----
+
+Text: 
+
+In 2014, I worked on an event with Victoria Wu called From the Bottom of my Fuel Cell. Participants practiced rapid prototyping, using wearable technology as a theme.
+
+20 RISD and Brown students convened in the Brown Design Workshop at Brown University for a day. The group was lucky to be joined by two visiting designers from IDEO for the daylong workshop, Prat Ganapathy and Bill Stewart. The session started off with introductions and an inspiring talk from the visiting designers about their design process. Prat and Bill discussed how the design process isn’t very prescriptive, but something that often circles back on itself and repeats. They gave a number of examples of the multitude of different ways one can prototype, whether it be interactions, interfaces, or products. 
+
+After that, the participants were challenged to take 15 minutes to make a prototype that addressed a specific question related to one of four “briefs”, which are fictional people that the participants were given descriptions of to design for. For example, one group chose to prototype a better way for a homeless teen in San Francisco to access information about shelters and her appointments. 
+
+After these super-rapid prototypes, the group got together to share their progress, as a way to practice speaking about the work and to see where each others’ work was going. One group showed off a very rough prototype of a baby that could be monitored remotely by it’s mother. Their very early prototype allowed them to get a sense of the human factors they would have to design around for the rest of the day. 
+
+Subsequent rounds of prototyping (there were two) lasted about an hour each and allowed participants to flesh out concepts in more depth, or in some cases completely change their direction. One group for example started out developing a communal space for the elderly and younger people, but ended up pitching an interface that would teach older people how to dance while simultaneously guiding them through the city.
+
+Groups continued prototyping until about 3:00 p.m. when everyone gathered for a final “critique”. Groups presented really interesting ideas from a shoe for building confidence to a device that would create physical artifacts from digital communication. Prat remarked that all of these ideas could turn into something really valid if the participants started putting their ideas in front of users and took them further. The two visiting designers noted that they were really impressed with what everyone came up with in such a short period of time.
+
+Later on that day, Bill and Prat, joined by a guest of theirs who happened to be local, talked about two of their projects in the Metcalf Auditorium in the Chace Center at RISD. This talk, which was open to everyone from Brown and RISD, covered two of IDEO’s classically user-centered projects. This allowed students to gain perspective on how IDEO incorporates the end user into their design process (from the very beginning) and a number of other insights into how they work.

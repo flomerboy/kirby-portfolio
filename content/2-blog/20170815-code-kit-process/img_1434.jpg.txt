@@ -1,4 +1,4 @@
-Caption: 
+Caption: A critique of one of the many iterations of blocks we had.
 
 ----
 
@@ -7,3 +7,7 @@ Link:
 ----
 
 Maxwidth: 1
+
+----
+
+Sort: 11

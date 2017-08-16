@@ -1,7 +1,7 @@
 <?php
 
 $articles = page('blog')->children()->visible()->flip();
-
+$articleSize = $articles->count();
 /*
 
 The $limit parameter can be passed to this snippet to
@@ -42,6 +42,6 @@ if(isset($limit)) $articles = $articles->limit($limit);
     <p>This blog does not contain any articles yet.</p>
   <?php endif ?>
 
-  <h4 class="see-blog"><a href="/blog">See All</a></h4>
+  <h4 class="see-blog"><a href="/blog">See All <?php echo $articleSize ?> Articles</a></h4>
 
 </ul>

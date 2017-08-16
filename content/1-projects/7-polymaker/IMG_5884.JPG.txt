@@ -2,11 +2,10 @@ Sort: 9
 
 ----
 
-Caption: Lorem ipsum dolor sit amet mod monkey dohickey ad avet moniko duret chimmy changa erer leminr Lorem ipsum dolor sit amet mod monkey dohickey ad avet moniko duret chimmy changa erer leminr Lorem ipsum dolor sit amet mod monkey dohickey ad avet moniko duret chimmy changa erer leminr Lorem ipsum dolor sit amet mod monkey dohickey ad avet moniko duret chimmy changa erer leminr
-
+Caption: This is the testing geometry that I created for evaluating new materials.
 ----
 
-Link: 
+Link:
 
 ----
 

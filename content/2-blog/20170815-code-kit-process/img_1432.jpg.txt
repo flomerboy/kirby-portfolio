@@ -1,4 +1,4 @@
-Caption: 
+Caption: An early sketch of what a Guitar Hero - like game could look like.
 
 ----
 
@@ -7,3 +7,7 @@ Link:
 ----
 
 Maxwidth: 1
+
+----
+
+Sort: 9

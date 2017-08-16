@@ -1,0 +1,27 @@
+Title: My Body Band Process
+
+----
+
+Date: 2017-08-16
+
+----
+
+Text: 
+
+This is one of my favorite projects from my time at RISD. Major shoutout to Ben Basseches and Erik Lack for their major contributions to the project. Below are the user testing sessions in order of appearance.
+
+(vimeo: https://vimeo.com/229802980)
+Q: Does the interaction between moving a muscle and hearing a sound facilitate discovery?
+A: It was really fun to just walk around and live life normally with the suit on. Different patterns would emerge unexpectedly. After I put the suit on, I was totally surprised when my leg was only in motion for about 10% of my stride.
+
+
+(vimeo: https://vimeo.com/229803020)
+Q: How is the suit working? Is it intuitive to a new user? 
+A: It is way fun to dance to a beat, but the beat should probably be simple to let the solo shine through. The threshold rate of movement should be higher, because sometimes Abby seemed unsure if she was the one responsible for the sound, or if was just latency in the suit.
+
+
+(vimeo: https://vimeo.com/119516335)
+Some things we learned from the final round of testing were:
+- It is great to have a parent around
+- The magnets for the muscles ought to be stronger
+- The learning is working!

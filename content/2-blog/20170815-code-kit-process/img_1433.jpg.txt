@@ -1,4 +1,4 @@
-Caption: 
+Caption: Some early ideation around different types of variables.
 
 ----
 
@@ -7,3 +7,7 @@ Link:
 ----
 
 Maxwidth: 1
+
+----
+
+Sort: 10

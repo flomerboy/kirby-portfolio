@@ -1,4 +1,4 @@
-Caption: 
+Caption: Another example of code, showing what a Space Invaders-type game could look like.
 
 ----
 
@@ -6,4 +6,8 @@ Link:
 
 ----
 
-Maxwidth: 
+Maxwidth: 0
+
+----
+
+Sort: 17

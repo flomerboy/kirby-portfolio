@@ -554,7 +554,7 @@ h1 + .intro {
   color: white;
   text-align: left;
   padding-left: 1rem;
-  padding-top: .5rem;
+  padding-top: .75rem;
 }
 
 .blog-section .read-more {
@@ -786,7 +786,6 @@ body {
   bottom: 0;
   width: 100%;
   padding: 1.5rem 0;
-  text-align: center;
   font-size: .875rem;
 }
 
@@ -812,11 +811,6 @@ body {
 @media all and (min-width: 48em) {
   .footer-copyright, .footer-madewithkirby {
     display: inline;
-  }
-  .footer-copyright::after {
-    content: "—";
-    margin: 0 .2em;
-    color: #71efac;
   }
 }
 
@@ -901,7 +895,7 @@ iframe {
 
 .article-title {
   font-weight: 300;
-  line-height: 1.75rem;
+  line-height: 1.35rem;
   margin-bottom: .5rem;
 }
 

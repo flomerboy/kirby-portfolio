@@ -1,4 +1,4 @@
-Caption: 
+Caption: This is one of the earliest prototypes we did to learn about the UX of the coding platform. Through testing we discovered that asking students to manage a representation of their circuit in the coding task was just a bunch of busy work.
 
 ----
 
@@ -7,3 +7,7 @@ Link:
 ----
 
 Maxwidth: 1
+
+----
+
+Sort: 6

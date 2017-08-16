@@ -1,4 +1,4 @@
-Caption: 
+Caption: Showing clearly the difference between different implementations of a pixel block.
 
 ----
 
@@ -6,4 +6,8 @@ Link:
 
 ----
 
-Maxwidth: 
+Maxwidth: 0
+
+----
+
+Sort: 13

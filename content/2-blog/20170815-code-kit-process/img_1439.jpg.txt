@@ -1,4 +1,4 @@
-Caption: 
+Caption: A sketch of an alternative way to do expressions to avoid "block-ception" effect that happens with long math expressions in vanilla blockly.
 
 ----
 
@@ -6,4 +6,8 @@ Link:
 
 ----
 
-Maxwidth: 
+Maxwidth: 0
+
+----
+
+Sort: 16

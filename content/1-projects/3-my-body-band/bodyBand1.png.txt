@@ -10,4 +10,4 @@ Link:
 
 ----
 
-Maxwidth: 0
+Maxwidth: 1

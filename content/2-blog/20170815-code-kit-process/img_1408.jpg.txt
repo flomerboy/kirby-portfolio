@@ -1,4 +1,4 @@
-Caption: 
+Caption: Early sketches for the monsters I illustrated on the cover of the kit.
 
 ----
 
@@ -6,4 +6,8 @@ Link:
 
 ----
 
-Maxwidth: 
+Maxwidth: 0
+
+----
+
+Sort: 38
