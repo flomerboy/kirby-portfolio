@@ -67,7 +67,7 @@
 /* Apercu Pro */
 @font-face {
   font-family: 'Apercu Pro';
-  src: url(../fonts/ap-regular) format("otf");
+  src: url(../fonts/ap-regular.otf) format("otf"), url(../fonts/ap-regular.woff) format('woff');
   font-weight: 300;
   font-style: normal;
 }
