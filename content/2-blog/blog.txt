@@ -2,7 +2,7 @@ Title: Flomerblog
 
 ----
 
-Text: Hello, This is my blog. It is quite new right now. I'm going to start recording my thoughts about design, play, pedagogy, etc. to help internalize the knowledge and share it with others.
+Text: Hello, This is my blog. I record my thoughts about design, play, pedagogy, etc. to help internalize the knowledge and share it with others.
 
 ----
 
