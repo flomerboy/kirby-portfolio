@@ -1,0 +1,36 @@
+Title: Ways of Knowing & How to Learn Them
+
+----
+
+Date: 2017-10-04
+
+----
+
+Text: 
+
+At littleBits, we have a way of thinking about different types of knowing. We sort them into three categories:
+- Knowledge
+- Skills
+- Perspectives
+
+*Knowledge* is the kind of knowing that you access like a stapler. If I have a problem (two pages not connected) I just apply the stapler, and my problem is solved. How many eggs I have in the fridge, or how many electrons orbit a Helium atom are all things that once I know them, I can just access it directly to make a decision. 
+
+*Skills* are the kind of knowing that you use more like a chisel or a magnifying glass. When you start out using this kind of a tool, it could go a couple different ways. There's something hidden that you need to investigate in order to find it. Typography and layout are skills. Placing components on a circuit board or riding a horse are skills. I have to go through an active process of *using* them in order to make some sort of decision.
+
+*Perspectives* are the kind of knowing that you use more like a woodshop, or an electronics lab. While skills teach me how to put my knowledge to work - perspectives teach me how to put my skills to work. Within the woodshop I could use a bandsaw or a circular sander. Each space has its own best tool for the job. There's an opinion embodied in the selection of tools in the shop about which tools fit the task at hand. The space also takes an opinion as to which tools are redundant, or worth having in the first place. You see perspectives a lot on motivational posters "team work makes the dream work" or "you miss 100% of the shots you don't take".
+
+What I think is so ironic about motivational posters is that the most meaningful, life altering learning goals are usually written quite succinctly on motivational posters. They are also the kind of knowledge that studies have shown is the most transformational for student outcomes (depending on which metrics you care about, but in one of the (link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3041102/ text: more exhaustive studies), researchers use  years of education completed, health, likelihood to be single parents, run into problems with credit, or wind up in jail. Participants were compared to their siblings.) Paul Tough talks about the value of this way of knowing at length in his book which I super recommend called (link: http://www.paultough.com/helping/web/ text: Helping Children Succeed).
+
+If the perspectives summed up by motivational posters are so transformational, then why is it so laughable to think that they would ever make a difference in the classroom? 
+
+The idea I want to introduce is that different ways of knowing, just like tools, have their own affordances. I wouldn't teach you how to use a stapler in the same way I would teach you how to use a chisel, and I wouldn't teach you how to use a chisel in the same way I teach you how to use a woodshop.
+
+I can teach you how to use a stapler (Knowledge) in one sentence "You squeeze it like this", and that's pretty much all it takes. Just like how I only have to tell you once that there are two electrons in Helium once (or at least, I only have to tell it to you one way in order for you to understand it, although you might have to repeat hearing it a couple times in order to internalize it).
+
+Using a chisel (Skill) however, requires some nuance. I can't just tell you "You push the chisel into the wood and then chunks come out" and expect you to be able to carve a beautiful sculpture. I have to teach you through many different angles. Try it out with some pine, then try it out with some oak, feel the difference, and internalize how it feels to hammer the chisel too hard, and how it feels to hammer the chisel too soft, and what the consequences are to each. To learn a skill to have to repeat it over and over again, each time uncovering new knowledge from slightly different source material.
+
+Learning how to use a woodshop, or a library, or an auto garage (Perspective) requires a different way of learning. While learning to use the chisel to a working level could happen on the time scale of days or weeks, knowing how to use a woodshop happens over the course of months or years. Perspectives are usually something that's completely meaningless until you've experienced it yourself, and are able to attach it to other types of knowing. Otherwise, on your 13th birthday your parents would just tell you to never be jealous, always focus on learning, and try not to compare yourself to other people too much, and then from then on you would never make any of those mistakes. But still, people always seem to have to learn these things the hard way. 
+
+If we accept that children construct knowledge from other knowledge and experiences (see Piaget), you might think of it that these different ways of knowing are different kinds of literal structures. Knowledge is like a stick, you can only use it one way - attach it to things. Skills are like a wall, you could use it to make a lean-to, but you could also use it to make a cabin, or a shed. Perspectives are like a house. So naturally, we would expect children to require an order of magnitude more experiences (sticks) to construct these different ways of knowing.
+
+Thinking about knowledge in this way was really transformational to me in advancing my understanding the importance of non-cognitive skills and how they must be assessed differently from how we assess skills and knowledge.

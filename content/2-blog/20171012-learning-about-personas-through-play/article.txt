@@ -1,0 +1,19 @@
+Title: Learning About Personas Through Play
+
+----
+
+Date: 2017-11-12
+
+----
+
+Text: 
+
+I was very lucky to recently join (link: https://www.newschool.edu/public-engagement/faculty-list/?id=4e44-4934-4d44-6731 text: Adriana Young)'s class at Parsons/The New School. We were looking at User Personas for the students' projects. They are doing human centered design, which basically means you try to understand what people need/what their problems are before you start to design anything to solve them.  I've always struggled with creating helpful personas for my projects, so it was a helpful exercise to see how students created personas to fit their various different projects. 
+
+One particularly interesting moment happened when I was talking to a student about their personas, which seemed too vague to me. I was trying to explain why it would be a hindrance to their design process if their personas were too vague. I told the student that personas are helpful for when you're designing your product/service and want to check that what you're building is going to fit the needs of all the various people who interact with it. If the personas don't give you much detail about them, or if they are all basically the same person, they aren't going to help you much for determining if your product/service is meeting the requirements you set for it. 
+
+This advice wasn't clicking for the student though, and I think it totally makes sense why. If you ever need to start an explanation off with "trust me", you can rest assured that whatever follows isn't going to be a very deep learning experience. So I tried reframing it into something that could be discovered through play and exploration! 
+
+I suggested that the student hand their three personas to a friend, and ask them to spend 5-10 minutes designing something that could help all 3 of these people. Sit back and watch for the entire time and don't get involved. At the end of the 10 minutes, if the result seems way off base, take another look at the personas and see if there are any details missing that would have made it obvious that the solution had to go in another direction. If the solution ended up being something super expensive, that none of your personas could afford, maybe there should be a field for income in the persona. If the solution ended up being something super time consuming that your personas wouldn't have time for - maybe there should be a field in your persona related to how much spare time they have. 
+
+I think it's important to keep personas simple because there's only so much information a human can possibly keep in their working memory. Hopefully this exercise can result in better personas and a better learning experience for designers hoping to discover what makes a good persona.
