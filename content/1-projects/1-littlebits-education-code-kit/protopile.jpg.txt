@@ -1,8 +1,8 @@
-Sort: 15
+Sort: 13
 
 ----
 
-Caption: These are assorted prototypes from user testing that was conducted in the early R&D phase. We conducted extensive user testing with many different versions of programming paradigms to determine which best facilitated the learning of coding principles through play.
+Caption: To read more about our process, check out (link: /blog/code-kit-process text: the blog post).
 
 ----
 

@@ -2,7 +2,7 @@ Sort: 1
 
 ----
 
-Caption: This photo captures the energy of one of the hero projects of the kit: Hot Potato... of Doom! The sense of physical danger of this game makes it extremely fun. The use of timers and sound effects are tied to coding concepts that motivate students to learn how to code their own games.
+Caption: (link: https://www.littlebits.com/codekit text: The littleBits Code Kit) empowers kids to learn engineering and design skills through creating their own games.
 
 ----
 

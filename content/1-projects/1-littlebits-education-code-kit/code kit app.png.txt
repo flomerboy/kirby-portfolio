@@ -1,8 +1,8 @@
-Sort: 6
+Sort: 4
 
 ----
 
-Caption: This is the design of the home of the Code Kit App and the Code Tutorials section. Nick Santos did the UI design for these screens with feedback from the rest of the core team.
+Caption: The kit comes with an app which is home to the tutorials and coding canvas.
 
 ----
 

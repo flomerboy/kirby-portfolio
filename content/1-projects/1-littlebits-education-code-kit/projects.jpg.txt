@@ -1,8 +1,8 @@
-Sort: 5
+Sort: 3
 
 ----
 
-Caption: These are the four inventions. Each one is tied to a specific coding concept, such as  loops, or logic. Although most games involve many of them, this serves as a helpful pathway to help educators plan their lessons.
+Caption: Each tutorial introduces a specific coding concept, and a different kind of game, from sports to music.
 
 ----
 

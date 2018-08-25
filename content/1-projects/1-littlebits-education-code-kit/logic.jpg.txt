@@ -1,8 +1,8 @@
-Sort: 9
+Sort: 6
 
 ----
 
-Caption: One of main challenges of this kit is conveying coding concepts to kids in ways that are meaningful and helpful. Our goal is for inventors to draw all of these conclusions on their own, but since every student learns differently, we wanted to provide this as a pathway for students and educators alike to familiarize themselves with the content through metaphors and examples. Chloe Varelidi and Sarah Page lead the content development for these videos, and I was responsible for Art Direction, Producing, and Editing them. Here I am linking my favorite two: Variables, and Logic, but there are more available to view on our YouTube channel.
+Caption: Each coding concept is paired with an animated video that explains the concept through analogies.
 
 ----
 
