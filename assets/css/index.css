@@ -169,6 +169,10 @@ a {
   cursor: pointer;
 }
 
+.blog-showcase article {
+  border-radius: 15px;
+}
+
 .see-blog {
   display: inline;
   background-image: linear-gradient(180deg,transparent 92%,#3274ff 0);
@@ -259,17 +263,19 @@ img {
   border-style: none;
   width: 100%;
   z-index: 10;
+  border-radius: 15px;
 }
 
 figcaption p{
   font-size: 2em;
-  margin-top: 6em;
+  margin-top: 4em;
   margin-bottom: 4em;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
   max-width: 55rem;
   color: #444444;
+  line-height: normal;
 }
 
 .text figcaption p a {
@@ -867,6 +873,9 @@ body {
 
   .small-image  {
     width: 66%;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
   }
   .home-main {
     display: grid;
@@ -894,7 +903,7 @@ body {
 }
 
 .main {
-  max-width: 80%;
+  max-width: 70%;
   margin: auto;
 }
 

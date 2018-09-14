@@ -2,7 +2,7 @@ Sort: 6
 
 ----
 
-Caption: This is one of the modes of the robotic walker, where it can serve as an assistant or monitor a patient's activity in a medical context. Illustration by Barbara Yang
+Caption: This is one of the modes of the robotic walker, where it can serve as an assistant or monitor a patient's activity in a medical context.
 
 ----
 

@@ -1,0 +1,13 @@
+Sort: 1
+
+----
+
+Caption: RISD Quickies is a peer-to-peer workshop series that uses RISD's most valuable resource to share knowledge - its students.
+
+----
+
+Link: 
+
+----
+
+Maxwidth: 1

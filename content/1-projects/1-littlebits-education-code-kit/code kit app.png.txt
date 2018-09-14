@@ -2,7 +2,7 @@ Sort: 4
 
 ----
 
-Caption: The kit comes with an app which is home to the tutorials and coding canvas.
+Caption: The kit comes with an app which is home to the tutorials and the coding canvas.
 
 ----
 

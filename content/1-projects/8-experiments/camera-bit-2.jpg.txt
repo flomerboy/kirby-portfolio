@@ -2,7 +2,7 @@ Sort: 1
 
 ----
 
-Caption: The Selfie Stick Bit is a Bit that I prototyped which took the underlying technology of a selfie stick and repurposed it for littleBits. The functionality was later replicated in the BLE Bit which was released a year later.
+Caption: The Selfie Stick Bit is a Bit that I prototyped which took the underlying technology of a selfie stick and repurposed it for littleBits.
 
 ----
 

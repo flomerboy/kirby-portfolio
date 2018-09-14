@@ -1,4 +1,4 @@
-Caption: This is a protoype of a robotic walker that I created with Barbara Yang, Karthik Desingh, Diane Schulze, Xiyao Xu, and Zhiqiang Sui. My main contribution was the prototyping of the plywood exterior and the mechanism that allowed the motors to drive the wheels.
+Caption: This is a prototype of a robotic walker that I created with Barbara Yang, Karthik Desingh, Diane Schulze, Xiyao Xu, and Zhiqiang Sui.
 
 ----
 
