@@ -46,5 +46,3 @@
     <?php snippet('pagination') ?>
 
   </main>
-
-<?php snippet('footer') ?>

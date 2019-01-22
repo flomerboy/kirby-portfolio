@@ -1,0 +1,13 @@
+Sort: 11
+
+----
+
+Caption: This is a modular furniture system I designed that takes advantage of the structural qualities of a thermoplastic fiber composite.
+
+----
+
+Link: 
+
+----
+
+Maxwidth: 1

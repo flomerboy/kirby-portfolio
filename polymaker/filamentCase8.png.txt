@@ -1,0 +1,13 @@
+Sort: 1
+
+----
+
+Caption: This is a spool of filament that I did the preliminary design of. This spool was one of the first on the market to have a built-in feature to prevent the filament from becoming unwound. Aaron Jennings is responsible for the final Industrial Design.
+
+----
+
+Link: 
+
+----
+
+Maxwidth: 1

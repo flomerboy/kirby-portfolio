@@ -1,8 +1,8 @@
 <?php snippet('header') ?>
 
   <main class="main" role="main">
-    <div class="text u-mar-top">
 
+    <div class="text wrap wide u-mar-top">
       <?php
       // Images for the "project" template are sortable. You
       // can change the display by clicking the 'edit' button
@@ -28,10 +28,11 @@
         </figure>
       <?php endforeach ?>
 
+    <?= $page->text()->kirbytext() ?>
+
+
     </div>
 
     <?php snippet('prevnext') ?>
 
   </main>
-
-<?php snippet('footer') ?>

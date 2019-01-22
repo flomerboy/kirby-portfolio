@@ -28,5 +28,3 @@
     </section>
 
   </main>
-
-<?php snippet('footer') ?>

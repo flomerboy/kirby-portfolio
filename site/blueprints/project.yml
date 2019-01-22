@@ -22,6 +22,11 @@ fields:
     type:  text
     width: 3/4
 
+  year:
+    label: Year
+    type:  text
+    width: 1/4
+
   text:
-    label: Text
+    label: Credits
     type:  textarea
