@@ -1,0 +1,13 @@
+Sort: 5
+
+----
+
+Caption: A portfolio of student work can be found (link: http://buildinprogress.media.mit.edu/collections/human-computer text: here). The website for the class can be found (link: http://steamwith.us/hc text:here).
+
+----
+
+Link: 
+
+----
+
+Maxwidth: 0

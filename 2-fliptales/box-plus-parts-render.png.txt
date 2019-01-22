@@ -1,0 +1,13 @@
+Caption: Learn more on the (link: www.playfliptales.com text: FlipTales website) or the (link: https://www.kickstarter.com/projects/flomerboy/fliptales-a-party-game-for-creative-people/description text: Kickstarter Page).
+
+----
+
+Link: 
+
+----
+
+Maxwidth: 0
+
+----
+
+Sort: 4

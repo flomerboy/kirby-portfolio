@@ -1,0 +1,13 @@
+Sort: 13
+
+----
+
+Caption: To read more about our process, check out (link: /blog/code-kit-process text: the blog post).
+
+----
+
+Link: 
+
+----
+
+Maxwidth: 0

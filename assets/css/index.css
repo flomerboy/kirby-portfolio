@@ -262,8 +262,8 @@ img {
 }
 
 figcaption p{
-  font-size: 2em;
-  margin-top: 4em;
+  font-size: 1.5em;
+  margin-top: 3em;
   margin-bottom: 4em;
   margin-left: auto;
   margin-right: auto;
@@ -506,11 +506,12 @@ h1 + .intro {
   background: #efeeed;
   color: #3274ff;
   border-bottom: 0;
+  border-radius: 50%;
 }
 
 .pagination-item:hover, .pagination-item:focus {
   background: #3274ff;
-  color: #71efac;
+  color: #FFFFFF;
 }
 
 .pagination-item:active {
@@ -859,6 +860,9 @@ body {
   .u-mobile-mar-top {
     margin-top: 4rem;
   }
+  .main {
+    max-width: 95%;
+  }
 
 }
 
@@ -886,6 +890,10 @@ body {
     grid-column: 1 / 1;
     grid-row: 1 / 6;
   }
+
+  .main {
+    max-width: 70%;
+  }
 }
 
 .home-main {
@@ -896,7 +904,6 @@ body {
 }
 
 .main {
-  max-width: 70%;
   margin: auto;
 }
 
