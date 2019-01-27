@@ -13,6 +13,9 @@ files:
       label: Make this image 66% wide?
       type: checkbox
       text: yes please
+    embed:
+      label: Embedded content
+      type: text
 
 pages: false
 
@@ -21,11 +24,6 @@ fields:
     label: Title
     type:  text
     width: 3/4
-
-  year:
-    label: Year
-    type:  text
-    width: 1/4
 
   text:
     label: Credits
