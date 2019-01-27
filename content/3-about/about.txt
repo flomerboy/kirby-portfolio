@@ -2,14 +2,14 @@ Title: About
 
 ----
 
-Intro:
+Intro: 
 
 ----
 
-Text:
+Text: 
 
-I am a Senior Product Designer at littleBits. In my spare time I am working on a game called (link: http://playfliptales.com text:Flip Tales) , which I will launch soon on Kickstarter, and consulting for (link: http://www.anjiplay.com text: Anji Play).
+I'm a designer focused on play, learning, and technology. I'm working on a game called (link: http://playfliptales.com text:Flip Tales), which was funded on Kickstarter, and consulting for (link: http://www.anjiplay.com text: Anji Play). I was previously a product designer at (link:http://littlebits.com text:littleBits).
 
 My secret talents are skipping stones, playing accordion and the fact that I am co-inventor of (link: https://www.google.com/patents/US20140303490 text: a material science patent).
 
-(email: rmather@alumni.risd.edu text: Email Me), (link: https://twitter.com/Flomerboy text: Tweet @ Me), (link: https://github.com/flomerboy text: Fork Me)
+(email: rmather@alumni.risd.edu text: Email Me), (link: https://twitter.com/Flomerboy text: Tweet @ Me), (link: https://github.com/flomerboy text: Fork Me), (link: https://www.linkedin.com/in/flomerboy/ text:resumé)

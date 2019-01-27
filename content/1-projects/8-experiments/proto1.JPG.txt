@@ -1,4 +1,4 @@
-Caption: This is a prototype of a robotic walker that I created with Barbara Yang, Karthik Desingh, Diane Schulze, Xiyao Xu, and Zhiqiang Sui.
+Caption: Prototype of a robotic walker.
 
 ----
 

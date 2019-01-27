@@ -1,0 +1,28 @@
+Title: Mastery Learning and Creativity
+
+----
+
+Date: 2018-09-28
+
+----
+
+Text: 
+
+This post is a response to Andy Matuschak's post (link: https://medium.com/khan-academy-early-product-development/mastery-learning-and-creative-tasks-97c4a11f8364 text:on Medium) about Mastery Learning and Creative Tasks. 
+
+This post assumes that the reader has first read the former post, because it does a great job introducing the concepts of mastery learning, creativity (in the context of learning), "depth of knowledge" and "transfer demand".
+
+The question presented is: How might we build ways to assess the mastery of creative tasks? How does creative learning differ from other learning in how mastery is measured?
+
+I think it's important to acknowledge the inherent subjectivity of creativity. 
+
+Some answers provided are: 
+1) Create a huge bank of these problems, involving a large number of concepts at varying levels of the curriculum.
+2) Intermittently ask students to solve a small set of these problems concerning concepts they’ve already putatively mastered; their “score” is the number they get correct out of the set.
+3) The student’s “mastery goal” is to slowly increase the fractions of problems in the set they get correct — even though that might start at 0.
+
+Matuschak also provides some helpful criteria for such a system: 
+1) Offer enough material for struggling students to “try again” meaningfully
+2) Give students a clear sense of their progress
+
+There appears to be and underlying assumption that the assessment has to be automated, and performed by an algorithm, but since it is not listed in the above crite

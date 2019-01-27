@@ -1,12 +1,12 @@
-Sort: 8
+Sort: 4
 
 ----
 
-Caption: This is a photo from the Human + Computer class I co-taught over Wintersession & IAP in 2014. Please read more about it in the project dedicated to it.
+Caption: Workshops like (link: /projects/human-computer text: Human + Computer) brought students from different campuses together to collaborate.
 
 ----
 
-Link: 
+Link: /projects/human-computer text: Human + Computer
 
 ----
 

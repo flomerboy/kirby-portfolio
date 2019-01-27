@@ -6,4 +6,4 @@ Text: Hello, This is my blog. I record my thoughts about design, play, pedagogy,
 
 ----
 
-Perpage: 20
+Perpage: 15

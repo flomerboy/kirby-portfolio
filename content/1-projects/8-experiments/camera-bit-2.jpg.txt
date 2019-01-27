@@ -2,7 +2,7 @@ Sort: 1
 
 ----
 
-Caption: The Selfie Stick Bit is a Bit that I prototyped which took the underlying technology of a selfie stick and repurposed it for littleBits.
+Caption: The Selfie Stick Bit is a Bit which takes the underlying technology of a selfie stick and repurposes it for littleBits.
 
 ----
 

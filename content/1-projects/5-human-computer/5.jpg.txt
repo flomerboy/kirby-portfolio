@@ -2,12 +2,12 @@ Sort: 1
 
 ----
 
-Caption: One of the student projects - a large foam mouth that can be activated with a wind sensor and creates phonemes.
+Caption: In (link: http://steamwith.us/hc/ text: Human + Computer), students conceived and prototyped their own transhumanist technologies.
 
 ----
 
-Link: 
+Link: http://steamwith.us/hc/
 
 ----
 
-Maxwidth: 1
+Maxwidth: 0

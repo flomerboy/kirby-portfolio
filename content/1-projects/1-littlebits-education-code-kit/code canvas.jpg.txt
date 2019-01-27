@@ -2,7 +2,7 @@ Sort: 5
 
 ----
 
-Caption: The coding canvas was designed to balance ease-of-use and extendability.
+Caption: The coding canvas and block design balance ease-of-use and extendability.
 
 ----
 

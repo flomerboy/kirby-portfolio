@@ -1,8 +1,8 @@
-Sort: 4
+Sort: 5
 
 ----
 
-Caption: In the "Pointless Machines" workshop inspired by Arthur Gansen, students learned elementary physical computing skills to create their own kinematic sculptures.
+Caption: In the Pointless Machines workshop inspired by Arthur Gansen, students learned elementary physical computing skills.
 
 ----
 

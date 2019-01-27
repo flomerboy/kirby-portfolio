@@ -6,4 +6,7 @@ Year: 2014
 
 ----
 
-Text: (vimeo: https://vimeo.com/111134331)
+Text: 
+
+Team Members:
+Erik Lack, Ben Basseches & Ryan Mather

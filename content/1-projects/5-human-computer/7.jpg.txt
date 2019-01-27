@@ -1,8 +1,8 @@
-Sort: 3
+Sort: 4
 
 ----
 
-Caption: One of the groups presenting the brain-computer interface that their project used. I serve as a head model here.
+Caption: Cross-disciplinary groups conceived, prototyped, and presented their projects in 4 weeks.
 
 ----
 
