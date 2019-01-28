@@ -1,4 +1,4 @@
-<?php snippet('header')
+<?php snippet('blog_header')
 // This page uses a separate controller to set variables, which can be used
 // within this template file. This results in less logic in your templates,
 // making them more readable. Learn more about controllers at:

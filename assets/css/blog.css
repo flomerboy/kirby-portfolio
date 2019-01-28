@@ -212,7 +212,7 @@ a {
 hr {
   height: 1.5rem;
   text-align: center;
-  color: #3274ff  ;
+  color: #FFFFFF  ;
 }
 
 hr::before {
@@ -304,7 +304,7 @@ and (max-width: 1024px){
 }
 
 .ytp-title {
-  display: none;  
+  display: none;
 }
 
 /* =====  2 Layout Helpers & Reusable Components  =========================== */
@@ -699,8 +699,8 @@ h1 + .intro {
 /* =====  3 Site Layout  ==================================================== */
 
 html {
-  background: #FFFFFF;
-  color: #3274ff;
+  background: #3274ff;
+  color: #FFFFFF;
   font: normal 400 1.5em/1.5 "Lyon Text", Georgia, serif;
   /* Always show the vertical scrollbar to prevent `jumps`
      of page content after navigating from a very short page

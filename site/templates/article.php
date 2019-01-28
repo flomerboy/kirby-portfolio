@@ -1,4 +1,4 @@
-<?php snippet('header') ?>
+<?php snippet('blog_header') ?>
 
   <main class="main" role="main">
 

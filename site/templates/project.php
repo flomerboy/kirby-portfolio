@@ -13,7 +13,7 @@
             <a href="<?=$image->link()?>">
           <?php endif ?>
           <?php if($image->embed()->isNotEmpty()): ?>
-            <iframe src="<?= $image->embed() ?>" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="<?= $image->embed() ?>?modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           <?php endif ?>
           <?php if($image->embed()->isEmpty()): ?>
           <img src="<?= $image->url() ?>" alt="<?= $page->title()->html() ?>"
